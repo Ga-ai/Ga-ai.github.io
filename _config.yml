@@ -13,7 +13,7 @@ paginate_path: "/page/:num/"
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 highlighter: rouge
 markdown: kramdown
-comments :
+comments : 1111111111111111111111111111111111111111
   gitalk :
     clientID : 
     clientSecret : 
